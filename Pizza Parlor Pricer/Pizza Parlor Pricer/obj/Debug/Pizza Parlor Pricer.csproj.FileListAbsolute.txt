@@ -1,0 +1,10 @@
+C:\Users\Owners\Desktop\CIS162 HW\Pizza Parlor Pricer\Pizza Parlor Pricer\bin\Debug\Pizza Parlor Pricer.exe.config
+C:\Users\Owners\Desktop\CIS162 HW\Pizza Parlor Pricer\Pizza Parlor Pricer\bin\Debug\Pizza Parlor Pricer.exe
+C:\Users\Owners\Desktop\CIS162 HW\Pizza Parlor Pricer\Pizza Parlor Pricer\bin\Debug\Pizza Parlor Pricer.pdb
+C:\Users\Owners\Desktop\CIS162 HW\Pizza Parlor Pricer\Pizza Parlor Pricer\obj\Debug\Pizza Parlor Pricer.csprojResolveAssemblyReference.cache
+C:\Users\Owners\Desktop\CIS162 HW\Pizza Parlor Pricer\Pizza Parlor Pricer\obj\Debug\Pizza_Parlor_Pricer.Form1.resources
+C:\Users\Owners\Desktop\CIS162 HW\Pizza Parlor Pricer\Pizza Parlor Pricer\obj\Debug\Pizza_Parlor_Pricer.Properties.Resources.resources
+C:\Users\Owners\Desktop\CIS162 HW\Pizza Parlor Pricer\Pizza Parlor Pricer\obj\Debug\Pizza Parlor Pricer.csproj.GenerateResource.Cache
+C:\Users\Owners\Desktop\CIS162 HW\Pizza Parlor Pricer\Pizza Parlor Pricer\obj\Debug\Pizza Parlor Pricer.csproj.CoreCompileInputs.cache
+C:\Users\Owners\Desktop\CIS162 HW\Pizza Parlor Pricer\Pizza Parlor Pricer\obj\Debug\Pizza Parlor Pricer.exe
+C:\Users\Owners\Desktop\CIS162 HW\Pizza Parlor Pricer\Pizza Parlor Pricer\obj\Debug\Pizza Parlor Pricer.pdb
